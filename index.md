@@ -67,7 +67,7 @@ This logic tree consists of the relationship between named entities and problem 
 │ ├── GoldenDict
 │ └── UnityHub
 ├── Connectivity / communication: Musescore
- |--- Loading / startup/
+|--- Loading / startup/
 │ ├── Openshot
 │ └── Bauh
 └── Freezing / unresponsiveness: VSCodium
